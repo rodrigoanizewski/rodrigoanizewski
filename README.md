@@ -1,9 +1,6 @@
 # Rodrigo Lima Anizewski
 
-**`Future Backend Engineer`**
-
-Atuo há 2 anos como Analista de Sistemas, com foco em suporte técnico e manutenção de bancos de dados SQL (Firebird) para sistemas ERP. Tenho experiência prática na resolução de inconsistências de dados e suporte a regras de negócio fiscais (NF-e).
-Atualmente, estou dedicando meus estudos ao Desenvolvimento Backend com C# / .NET, utilizando Git/GitHub para versionamento de projetos. Busco transicionar para minha primeira oportunidade como Desenvolvedor Júnior, unindo minha base em dados com a paixão pela resolução de problemas lógicos. Disponível para vagas presenciais ou remotas.
+**`Builder`**
 
 ---
 
